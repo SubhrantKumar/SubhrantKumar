@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Subhranta
-- 👀 I’m interested in Automation Testing 
-- 🌱 I’m currently learning Java Selenium
+- 👀 Selenium, Core Java, Rest API, Appium, Manual Testing
+- 🌱Currently working as an Automation Test Engineer.
